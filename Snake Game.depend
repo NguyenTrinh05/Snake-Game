@@ -1,0 +1,49 @@
+# depslib dependency file v1.0
+1743337601 source:c:\users\duong\onedrive\taÌi liêòu\sdl\snake game\main.cpp
+	"Game.h"
+
+1743339439 c:\users\duong\onedrive\taÌi liêòu\sdl\snake game\include\game.h
+	<SDL.h>
+	<SDL_image.h>
+	<SDL_mixer.h>
+	<iostream>
+	"Snake.h"
+	"Fruit.h"
+	"TextureManager.h"
+
+1743261740 c:\users\duong\onedrive\taÌi liêòu\sdl\snake game\include\snake.h
+	<vector>
+	<SDL.h>
+	"Vector2D.h"
+	"TextureManager.h"
+
+1743239245 c:\users\duong\onedrive\taÌi liêòu\sdl\snake game\include\fruit.h
+	<SDL.h>
+	<cstdlib>
+	<ctime>
+	"Vector2D.h"
+	"TextureManager.h"
+
+1743235275 c:\users\duong\onedrive\taÌi liêòu\sdl\snake game\include\vector2d.h
+
+1743239630 source:c:\users\duong\onedrive\taÌi liêòu\sdl\snake game\src\fruit.cpp
+	"Fruit.h"
+	"TextureManager.h"
+
+1743339991 source:c:\users\duong\onedrive\taÌi liêòu\sdl\snake game\src\game.cpp
+	"Game.h"
+	"TextureManager.h"
+
+1743333876 source:c:\users\duong\onedrive\taÌi liêòu\sdl\snake game\src\snake.cpp
+	"Snake.h"
+	<iostream>
+
+1743238710 c:\users\duong\onedrive\taÌi liêòu\sdl\snake game\include\texturemanager.h
+	<SDL.h>
+	<string>
+
+1743238710 source:c:\users\duong\onedrive\taÌi liêòu\sdl\snake game\src\texturemanager.cpp
+	"TextureManager.h"
+	<SDL_image.h>
+	<iostream>
+
